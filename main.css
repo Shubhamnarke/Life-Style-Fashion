@@ -1,0 +1,132 @@
+*{
+  scroll-behavior: smooth;
+}
+.navbar{
+  opacity: 0.8;
+}
+.main{
+  background-color: white;
+  padding-top: 60px;
+
+  margin-top: -12px;
+  transform: skewY(-4deg);
+  border-bottom-right-radius: 50px;
+}
+
+/*Automatic Slide Show*/
+
+
+.mySlides {
+  transform: skewY(4deg);
+  display:none;
+width: 100%;
+
+margin-top: 10px;
+}
+
+
+
+
+/*-----------Home Page----------*/
+
+
+.home-page{
+  transform: skewY(4deg);
+  margin-top: 70px;
+  margin-bottom: 200px;
+
+}
+.Life{
+  color: #ff0066;
+  font-family: 'Amaranth';
+  font-size: 60px;
+  
+  
+}
+.life-style{
+  font-weight: 100;
+  color: #ff0066;
+}
+.collections{
+  letter-spacing: 5px;
+  margin-top: -5px;
+  text-transform: uppercase;
+  margin-left: 7px;
+  color: #b30047;
+}
+
+
+
+/*ndndlwdwndlwdlnwdwd*/
+
+
+.lattest{
+  
+  margin-top: 000px;
+  margin-bottom: 10px;
+}
+.swiper-container{
+  transform: skewY(4deg);
+  width: 300px;
+  height: 450px;
+}
+.swiper-slide{
+  background-size: cover;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.swiper-button-prev{
+  font-size: 20px;
+}
+.location{
+  margin-top: 20px;
+  display: inline-flex;
+}
+.lattest-heading{
+   transform: skewY(4deg);
+   align-items: center;
+   text-align: center;
+   margin-top: 60px;
+   margin-bottom: 50px;
+}
+
+
+.new-arrival{
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+
+/*----------------------Menu----------------*/
+
+/*Shirt Menu*/
+
+.menu{
+
+  margin-top: 30px;
+  margin-bottom: 150px;
+
+}
+
+.shirt-img{
+  width: 90%;
+  border-radius: 10px;
+}
+
+
+.menu-box{
+  background-color: #f2f2f2;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.menu-head{
+  font-size: 20px;
+  font-family: 'Arsenal';
+}
+.Starting-from{
+  font-size: 12px;
+}
+
