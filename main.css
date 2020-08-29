@@ -5,9 +5,10 @@
   opacity: 0.8;
 }
 .main{
+
   background-color: white;
   padding-top: 60px;
-
+  overflow: hidden;
   margin-top: -12px;
   transform: skewY(-4deg);
   border-bottom-right-radius: 50px;
@@ -31,6 +32,7 @@ margin-top: 10px;
 
 
 .home-page{
+
   transform: skewY(4deg);
   margin-top: 70px;
   margin-bottom: 200px;
@@ -67,8 +69,8 @@ margin-top: 10px;
 }
 .swiper-container{
   transform: skewY(4deg);
-  width: 300px;
-  height: 450px;
+  width: 250px;
+  height: 350px;
 }
 .swiper-slide{
   background-size: cover;
