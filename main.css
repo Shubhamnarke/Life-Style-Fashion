@@ -39,17 +39,20 @@ margin-top: 10px;
 
 }
 .Life{
+  margin-top: -15px;
   color: #ff0066;
   font-family: 'Amaranth';
-  font-size: 60px;
+  font-size: 40px;
   
   
 }
 .life-style{
+  font-size: 30px;
   font-weight: 100;
   color: #ff0066;
 }
 .collections{
+  font-size: 15px;
   letter-spacing: 5px;
   margin-top: -5px;
   text-transform: uppercase;
